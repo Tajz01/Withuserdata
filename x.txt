@@ -1,2 +1,3 @@
 This is my new file
 This sis second line for diff
+This line will be removed using checkout method
